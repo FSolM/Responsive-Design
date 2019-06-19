@@ -1,4 +1,4 @@
-# Responsive Design
+# responsive-design
 # HTML Mock Up page using Responsive Design
 This is a small project using a Responsive Design<br>
 <b>Clone:</b> https://thenextweb.com<br>
