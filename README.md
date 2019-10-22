@@ -1,9 +1,15 @@
 # Responsive Design
-### HTML Mock Up page with Responsive Design
+### Clone page using a mobile first approach
 #### Project 6
-<b>Clone:</b> https://thenextweb.com<br>
-<b>Live Page:</b> https://fsolm.github.io/responsive-design/
+
+**Clone:** https://thenextweb.com<br>
+**Live Page:** https://fsolm.github.io/responsive-design/
+
+## Usage & Installation
+
+Every necessary file is in the root directory
 
 #### Created by:
-Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
-Eapen Zacharias: <a href="https://github.com/eapenzacharias">@eapenzacharias</a>
+
+Carlos Sol: [@FSolM](https://github.com/FSolM)<br>
+Eapen Zacharias: [@eapenzacharias](https://github.com/eapenzacharias)
